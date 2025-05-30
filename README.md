@@ -2,6 +2,10 @@
 
 A fun and interactive **AI-powered educational chatbot** designed for children, combining **anime aesthetics** with real-time learning tools like quizzes, chat support, and progress tracking. This project aims to make learning enjoyable, safe, and engaging using anime-style characters, gamified UI, and smart technology.
 
+Developed a multimodal AI-powered chatbot designed for student engagement using anime characters. Integrated real-time chat, quiz generation, and file-based learning using RESTful APIs. Backend powered by Flask with secure session management, AI-driven responses via Cohere, OCR for document parsing, and Google Cloud APIs for voice and translation features.
+
+
+
 ## 🚀 Features
 
 - 🧠 **AI Chatbot** – Built with OpenAI integration to answer educational queries.
